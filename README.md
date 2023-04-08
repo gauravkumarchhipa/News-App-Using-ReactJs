@@ -11,7 +11,7 @@ Open [http://localhost:3000]
 "react-router-dom": "^6.8.1",
 "react-top-loading-bar": "^2.3.1",
 # Description 
-This project is our News App. this project in clasification of news. and infinite scrolling to readout News.
+This project is our News App. this project in classification of news. and infinite scrolling to readout News.
 #Screenshorts
 
 ![Screenshot (556)](https://user-images.githubusercontent.com/93989396/219716340-8fb6017a-ec07-4d2d-a1e3-2b00bb40c3e9.png)
